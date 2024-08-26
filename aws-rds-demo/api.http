@@ -5,6 +5,6 @@ POST {{server}}/api/users
 Content-Type: application/json; charset-UTF-8
 
 {
-    "username": "damon",
-    "email": "damon@codingon.com"
+    "username": "joy",
+    "email": "joy@hiii.com"
 }
